@@ -62,7 +62,8 @@ function App() {
           key={time.nome} 
           nome={time.nome} 
           corDoFundo={time.corPrimaria} 
-          corDoCard={time.corSecundaria} 
+          corDoCard={time.corSecundaria}
+          colaboradores={colaboradores.filter(colaborador => colaborador.time === time.nome)}
         />)}
     </div>
   );
