@@ -47,7 +47,6 @@ function App() {
   const [colaboradores, setColaboradores] = useState([])
 
   const aoNovoColaboradorAdicioando = (colaborador) => {
-    console.log(colaborador)
     setColaboradores([...colaboradores, colaborador])
   }
 
@@ -62,8 +61,8 @@ function App() {
         <Time 
           key={time.nome} 
           nome={time.nome} 
-          corDoFundo={time.corPrimaria} 
-          corDoCard={time.corSecundaria}
+          corPrimaria={time.corPrimaria} 
+          corSecundaria={time.corSecundaria}
           colaboradores={colaboradores.filter(colaborador => colaborador.time === time.nome)}
         />)}
         <Rodape />
