@@ -26,7 +26,7 @@ const Rodape = () => {
         <img src="/imagens/logo.png" alt="" />
       </section>
       <section>
-        <p><a href="https://prwm.vercel.app" target="_blank" rel="noreferrer">Desenvolvido por Renan W. Montanari</a></p>
+        <p><a href="https://prwm.vercel.app" target="_blank" rel="noreferrer">Desenvolvido por Renan W. Montanari - T6 ONE Alura</a></p>
       </section>
     </footer>
   );
