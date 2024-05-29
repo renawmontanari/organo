@@ -1,8 +1,18 @@
 .banner {
-    background-color: #6278F7;
-    text-align: center;
-}
-
-.banner img {
-    max-width: 100%;
-}
+    width: 100%; /* Largura total */
+    height: 50vh; /* Toda a altura da tela */
+    overflow: hidden; /* Esconder qualquer parte do vídeo que exceda o tamanho do banner */
+    position: relative; /* Posição relativa para controle total sobre o vídeo */
+  }
+  
+  video {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+  }
+  
