@@ -31,3 +31,4 @@ Depois, abra http://localhost:3000 no seu navegador para ver a aplicação.
 Lista das principais tecnologias e bibliotecas usadas no projeto.
 
 React
+![organotrix](https://github.com/renawmontanari/organo/assets/101996367/a2afa0b8-7570-49b9-89ea-b3382146b633)
