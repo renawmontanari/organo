@@ -32,5 +32,4 @@ Lista das principais tecnologias e bibliotecas usadas no projeto.
 
 React
 
-![organotrix](https://github.com/renawmontanari/organo/assets/101996367/38cfa5e8-50d9-4142-8d3b-24a5b8232dc4)
-
+![organotrix](https://github.com/renawmontanari/organo/assets/101996367/2c73f86b-7bb8-4914-9492-a32839da238a)
