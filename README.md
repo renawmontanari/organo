@@ -1,6 +1,6 @@
-# Nome do Projeto
+# Organotrix
 
-Breve descrição do projeto e do que ele faz.
+O projeto foi criar com React um organizador de times e pessoas com qualquer tema.
 
 ## Índice
 
